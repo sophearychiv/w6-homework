@@ -92,4 +92,6 @@
     padding: 10px 0 10px 0;
     text-align: center;
     text-shadow: 0 -1px 1px #1999a4;
-    width: 200px; }
+    width: 200px; 
+    cursor: pointer;
+}
