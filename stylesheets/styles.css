@@ -78,11 +78,11 @@
 #third-button {
     background-color: #6bf3ff;
     background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #bdf9ff), color-stop(50%, #88e8f1), color-stop(50%, #4dcfdb), color-stop(100%, #1999a4));
-    background-image: -webkit-linear-gradient(top, #7f8dad 0%, #4a5e8c 50%, #2f477d 50%, #364c80 100%);
-    background-image: -moz-linear-gradient(top, #7f8dad 0%, #4a5e8c 50%, #2f477d 50%, #364c80 100%);
-    background-image: -ms-linear-gradient(top, #7f8dad 0%, #4a5e8c 50%, #2f477d 50%, #364c80 100%);
-    background-image: -o-linear-gradient(top, #7f8dad 0%, #4a5e8c 50%, #2f477d 50%, #364c80 100%);
-    background-image: linear-gradient(top, #7f8dad 0%, #4a5e8c 50%, #2f477d 50%, #364c80 100%);
+    background-image: -webkit-linear-gradient(top, #bdf9ff 0%, #88e8f1 50%, #4dcfdb 50%, #1999a4 100%);
+    background-image: -moz-linear-gradient(top, #bdf9ff 0%, #88e8f1 50%, #4dcfdb 50%, #1999a4 100%);
+    background-image: -ms-linear-gradient(top, #bdf9ff 0%, #88e8f1 50%, #4dcfdb 50%, #1999a4 100%);
+    background-image: -o-linear-gradient(top, #bdf9ff 0%, #88e8f1 50%, #4dcfdb 50%, #1999a4 100%);
+    background-image: linear-gradient(top, #bdf9ff 0%, #88e8f1 50%, #4dcfdb 50%, #1999a4 100%);
     border: 1px solid #13575d;
     border-bottom: 1px solid #0e1d45;
     border-radius: 50px 0 50px;
